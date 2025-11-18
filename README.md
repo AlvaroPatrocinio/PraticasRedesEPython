@@ -1,6 +1,7 @@
 # **REDES DE COMPUTADORES 2 – Práticas de Computação**
 
 **Álvaro Patrocínio**
+---
 **João Pinheiro**
 
 Diamantina – MG
